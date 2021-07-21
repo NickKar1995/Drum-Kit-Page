@@ -24,4 +24,4 @@ A basic drum kit App that lets you play the drums in your way
 
 
 ## What the app looks like
-![alt text]
+![alt text]https://github.com/Xontrokolis/Drum-Kit-Page/blob/master/images/Untitled.png
